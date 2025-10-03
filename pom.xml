@@ -77,12 +77,12 @@
                     </systemPropertyVariables>
                 </configuration>
                 <dependencies>
-                    <dependency>
-                        <groupId>org.aspectj</groupId>
-                        <!--suppress MavenModelInspection -->
-                        <artifactId>aspectjweaver</artifactId>
-                        <version>1.9.22.1</version> <!-- или новее -->
-                    </dependency>
+<!--                    <dependency>-->
+<!--                        <groupId>org.aspectj</groupId>-->
+<!--                        &lt;!&ndash;suppress MavenModelInspection &ndash;&gt;-->
+<!--                        <artifactId>aspectjweaver</artifactId>-->
+<!--                        <version>1.9.22.1</version> &lt;!&ndash; или новее &ndash;&gt;-->
+<!--                    </dependency>-->
                 </dependencies>
             </plugin>
             <plugin>
